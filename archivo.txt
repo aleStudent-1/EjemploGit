@@ -1,0 +1,3 @@
+public class Clase1{
+string dato1 ="abc";
+}
