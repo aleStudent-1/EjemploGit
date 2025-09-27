@@ -1,3 +1,5 @@
 public class Clase1{
 string dato1 ="abc";
+string dato2 ="def";
+string dato3 ="hij";
 }
